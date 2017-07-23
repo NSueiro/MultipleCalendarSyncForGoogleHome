@@ -1,7 +1,7 @@
 # Overview
 Syncs multiple Google Calendars in an account's default calendar. This serves as a workaround to get Google Home working with multiple calendars.
 
-Credits to @prashantkhurana. This proyect is based on his, which can be found in https://github.com/prashantkhurana/GSuite_Calendar_To_Personal
+Credits to [@prashantkhurana](https://github.com/prashantkhurana). This proyect is based on his, which can be found in https://github.com/prashantkhurana/GSuite_Calendar_To_Personal
 
 ## General considerations.
 
